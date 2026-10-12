@@ -25,6 +25,8 @@ int main(){
     for(int i = 0; i < vec3.size(); i++){
         cout << vec3[i] << " ";
     }
+
+    
     cout << endl;
 
 }
