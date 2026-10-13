@@ -24,4 +24,5 @@ int main(){
     cout<< "Capacity of vec2: " << vec2.capacity() << endl; //
    cout<<"vector first element: " << vec2.front() << endl; // printing first element of vector
    cout<<"vector last element: " << vec2.back() << endl; // printing last
+   cout<<vec2[vec2.size()-1]<<endl;
 }
